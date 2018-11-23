@@ -1,2 +1,4 @@
 	name: i ain't got nothing good to say 
 	markdown: kramdown
+
+theme: jekyll-theme-minimal
